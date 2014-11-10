@@ -27,6 +27,8 @@ public class MainActivity extends ActionBarActivity {
 		}
 
 		Toast.makeText(getApplicationContext(), "Test Android", 1).show();
+		
+		//new text added
 	}
 
 	@Override
